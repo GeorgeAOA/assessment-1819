@@ -1,0 +1,3 @@
+student name : George Addai
+student number : 565722
+student class : INF1Bs
